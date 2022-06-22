@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meliodas"
+  name             : "Raniche"
   avatar           :  "/assets/images/meli.png"
-  bio              : 
+  bio              : Data Scientist
   location         : "Seoul, South Korea"
   email            : pos02043@gmail.com
   links:
