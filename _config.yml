@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minsoo Kim"
+  name             : "Meliodas"
   avatar           :  "/assets/images/meli.png"
-  bio              : "Data Scientist at KoreaPDS"
+  bio              : 
   location         : "Seoul, South Korea"
-  email            :
+  email            : pos02043@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
