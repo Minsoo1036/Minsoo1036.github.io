@@ -56,7 +56,7 @@ plt.scatter(df['wind'],df['area'])
 
 
     
-![png](output_7_1.png)
+![output_7_1](https://user-images.githubusercontent.com/73593889/175048011-7780194e-8653-4668-8240-58355a1ca135.png)
     
 
 
