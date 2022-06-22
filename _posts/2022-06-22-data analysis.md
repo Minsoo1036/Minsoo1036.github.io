@@ -50,11 +50,6 @@ plt.scatter(df['wind'],df['area'])
 
 
 
-    <matplotlib.collections.PathCollection at 0x22c84310>
-
-
-
-
     
 ![output_7_1](https://user-images.githubusercontent.com/73593889/175048011-7780194e-8653-4668-8240-58355a1ca135.png)
     
@@ -254,8 +249,8 @@ plt.hist(df['area'])
 
 
 
-    
-![png](output_10_1.png)
+
+![png](https://user-images.githubusercontent.com/73593889/175048800-f3e51e1e-7be8-4053-a923-d6c0151cbb0d.png)
     
 
 
