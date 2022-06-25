@@ -1,4 +1,8 @@
-# Real data analysis (when confounder is considered)
+---
+layout: single
+title: "Real data analysis (when confounder is considered)"
+toc: true
+---
 
 ### Notice
 
