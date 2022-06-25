@@ -4,7 +4,7 @@ title: "Real data analysis (when confounder is considered)"
 toc: true
 ---
 
-### Notice
+# Notice
 
 Before you implement below codes, you should confirm that R is installed in your PC.
 
